@@ -1,5 +1,5 @@
 <h1>Arthor:</h1>
-<p1>Mithun Ghosh</p1>
+<p1>Lang Wu</p1>
 <h1>Instruction for use: </h1>
 <p1>Run the following <a href="nn.py">python file.</a> </p1>
 <p2>The project description is described by <a href="SemEval2018-Task1-task-description.pdf">Saif <i>et al.</i>(2008)</a>. </p2>
